@@ -30,4 +30,16 @@ database system.</p>
 
 ## Visuals
 
+### Architecture
+
 ![alt text](https://github.com/unmaypawar/rDB/blob/main/helper/architecture.jpg?raw=true)
+
+## Installation Instructions
+
+## Contribution Guidelines
+
+Fork the repository to your GitHub account and please create a new branch for each feature or bug fix.
+
+## Support Information
+
+Please raise an issue or a pull request.
