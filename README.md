@@ -32,9 +32,21 @@ database system.</p>
 
 ### Architecture
 
-![alt text](https://github.com/unmaypawar/rDB/blob/main/helper/architecture.jpg?raw=true)
+![alt text](https://github.com/unmaypawar/rDB/blob/main/documentation/architecture.jpg?raw=true)
 
 ## Installation Instructions
+
+```
+conda create --name rdb --file requirements.txt
+```
+
+## Usage Instructions
+
+```
+python3 main.py
+```
+
+For detailed instructions please go through documentation.
 
 ## Contribution Guidelines
 
