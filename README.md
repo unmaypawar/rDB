@@ -1,6 +1,6 @@
 # rDB
 
-## About
+## Description
 
 <p>This project is dedicated to the development of a relational database, a structured repository designed to manage and correlate data seamlessly. Through this endeavor, the aim is to address the complexities associated with unstructured or loosely connected datasets by implementing a relational model that fosters logical relationships between different entities.</p>
 
@@ -27,3 +27,7 @@ SQL (Structured Query Language) conventions. This choice ensures that users, eve
 unfamiliar with complex database languages, can easily formulate queries using intuitive and
 recognizable keywords. This approach aligns with the commitment to creating a user-friendly
 database system.</p>
+
+## Visuals
+
+![alt text](https://github.com/unmaypawar/rDB/blob/main/helper/architecture.jpg?raw=true)
